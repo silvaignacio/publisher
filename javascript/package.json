@@ -1,7 +1,7 @@
 {
-  "name": "especificacin_de_api_de_usuario",
-  "version": "1.0.0",
-  "description": "Ejemplo_de_especificacin_de_API_de_usuario_con_OpenAPI",
+  "name": "api_gateway",
+  "version": "1.0",
+  "description": "API_Gateway",
   "license": "Unlicense",
   "main": "dist/index.js",
   "scripts": {
